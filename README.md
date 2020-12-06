@@ -1,4 +1,4 @@
-#PA2
+#PA2_2020473
 
 ## Requirements
 - Python 3.6
@@ -11,10 +11,8 @@
 <img src="https://user-images.githubusercontent.com/65876643/101270253-a795f700-37ba-11eb-838e-b5e358b72859.png" />
 
 - Copy final result(3D points to PLY format) & Run SavePLY.m
-
+<img src="https://user-images.githubusercontent.com/65876643/101270265-d6ac6880-37ba-11eb-828e-d4e5b95012b0.png" />
 
 ## Results
 
-<p float="left">
-  <img src="https://github.com/arnab39/cycleGAN-PyTorch/blob/master/images/horse_real.png" width="250" />
-</p>
+<img src="https://github.com/arnab39/cycleGAN-PyTorch/blob/master/images/horse_real.png" width="250" />
