@@ -10,7 +10,7 @@
 - Run feature.py
 <img src="https://user-images.githubusercontent.com/65876643/101270253-a795f700-37ba-11eb-838e-b5e358b72859.png" />
 
-- Copy final results & Run SavePLY.m
+- Copy final result(3D points to PLY format) & Run SavePLY.m
 
 
 ## Results
