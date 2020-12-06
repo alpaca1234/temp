@@ -14,5 +14,11 @@
 <img src="https://user-images.githubusercontent.com/65876643/101270265-d6ac6880-37ba-11eb-828e-d4e5b95012b0.png" />
 
 ## Results
+- Feature Matching
+<img src="https://user-images.githubusercontent.com/65876643/101270275-e4fa8480-37ba-11eb-95b7-8d0e88d49534.png" />
 
-<img src="https://github.com/arnab39/cycleGAN-PyTorch/blob/master/images/horse_real.png" width="250" />
+- Inliner
+<img src="https://user-images.githubusercontent.com/65876643/101270277-e6c44800-37ba-11eb-9274-46b41d4e29f5.png" />
+
+- 3D PLY
+<img src="https://user-images.githubusercontent.com/65876643/101270272-e0ce6700-37ba-11eb-943f-706a53fec94e.png" />
