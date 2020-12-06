@@ -7,9 +7,11 @@
 
 
 ## How to run
-* Run feature.py
-* Copy final results
-* Run SavePLY.m
+- Run feature.py
+<img src="https://user-images.githubusercontent.com/65876643/101270253-a795f700-37ba-11eb-838e-b5e358b72859.png" />
+
+- Copy final results & Run SavePLY.m
+
 
 ## Results
 
